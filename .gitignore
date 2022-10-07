@@ -7,7 +7,6 @@
 .libs/
 /aclocal.m4
 /autom4te.cache/
-/build-aux/
 /config.cache
 /config.h
 /config.log
